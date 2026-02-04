@@ -1,0 +1,12 @@
+{
+  "name": "auhotgame",
+  "version": "1.0.0",
+  "description": "Australia Ewallet Casino Website",
+  "scripts": {
+    "update-sitemap": "node update-sitemap.js",
+    "build": "node update-sitemap.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

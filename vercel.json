@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "buildCommand": null,
+  "buildCommand": "node update-sitemap.js",
   "outputDirectory": ".",
   "devCommand": null,
   "installCommand": null,
