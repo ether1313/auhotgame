@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+        http://www.google.com/schemas/sitemap-image/1.1
+        http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+    
+    <!-- Homepage with Images -->
+    <url>
+        <loc>https://www.aussiehotgame.com/</loc>
+        <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        
+        <!-- Logo -->
+        <image:image>
+            <image:loc>https://www.aussiehotgame.com/img/logo.png</image:loc>
+            <image:title>Au Hot Games - Australia Ewallet Casino</image:title>
+            <image:caption>Au Hot Games - Australia Ewallet Casino</image:caption>
+        </image:image>
+        
+        <!-- Hero Banners -->
+        <image:image>
+            <image:loc>https://www.aussiehotgame.com/img/banners/banner1.png</image:loc>
+            <image:title>Welcome Bonus</image:title>
+            <image:caption>Welcome Bonus</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://www.aussiehotgame.com/img/banners/banner2.png</image:loc>
+            <image:title>Legit Website</image:title>
+            <image:caption>Legit Website</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://www.aussiehotgame.com/img/banners/banner3.png</image:loc>
+            <image:title>Bonuses Awaiting</image:title>
+            <image:caption>Bonuses Awaiting</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://www.aussiehotgame.com/img/banners/banner4.png</image:loc>
+            <image:title>Jackpot Calculator</image:title>
+            <image:caption>Jackpot Calculator</image:caption>
+        </image:image>
+        
+        <!-- Game Provider Logos -->
+        <image:image>
+            <image:loc>https://www.aussiehotgame.com/img/provider/jili.png</image:loc>
+            <image:title>JILI</image:title>
+            <image:caption>JILI</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://www.aussiehotgame.com/img/provider/pegasus.png</image:loc>
+            <image:title>Pegasus</image:title>
+            <image:caption>Pegasus</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://www.aussiehotgame.com/img/provider/bng.png</image:loc>
+            <image:title>BNG</image:title>
+            <image:caption>BNG</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://www.aussiehotgame.com/img/provider/jdb.png</image:loc>
+            <image:title>JDB</image:title>
+            <image:caption>JDB</image:caption>
+        </image:image>
+        
+        <!-- Certification -->
+        <image:image>
+            <image:loc>https://www.aussiehotgame.com/img/certification.png</image:loc>
+            <image:title>Gaming Licenses & Certifications</image:title>
+            <image:caption>Gaming Licenses & Certifications</image:caption>
+        </image:image>
+    </url>
+    
+</urlset>
